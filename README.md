@@ -49,8 +49,17 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ---
 
+## Tabulation
+     S.No	   LCM	   WCM	   NA
+      1	      2.5	   0.3	   0.059
+
 
 ## 📊 OBSERVATION AND CALCULATION
+<img width="280" height="208" alt="image" src="https://github.com/user-attachments/assets/b89b2018-c271-47ef-bacf-e7e6f35eec73" />
+<img width="773" height="588" alt="image" src="https://github.com/user-attachments/assets/6fd628a2-6882-435d-8525-f2970ee150c6" />
+<img width="831" height="353" alt="image" src="https://github.com/user-attachments/assets/3ada9ad6-6676-48cd-8f9c-b744bec835f8" />
+<img width="796" height="353" alt="image" src="https://github.com/user-attachments/assets/d0f2cdd3-1610-4f4a-a9b5-bec0b41fe74d" />
+
 
 - 
 Parameter of given fiber are,
@@ -59,5 +68,6 @@ From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
-## Tabulation
+
 ## Result
+Thus the mode characteristics of fibre optic cable is verified and output is studied succesfull
